@@ -22,12 +22,15 @@ Declarar dos variables con la palabra reservada "let", imprimir la concatenació
 let str1 = "¡Hola ",
     str2 = "Mundo!"
 console.log("Concatenación: " + str1 + str2);
+
 //Problema No.3
 /*
 Declarar dos variables con la palabra reservada "const", imprimir cuál es el tipo de dato de esa variable.
 */
+
 const data = "str"
 console.log("Tipo de variable: " + typeof data)
+
 //Problema No.4
 /*
 Declarar una variable tipo Objecto, 
